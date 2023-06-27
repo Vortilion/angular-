@@ -1,0 +1,14 @@
+{
+  "name": "my-shared-components",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "14.2.10",
+    "@angular/core": "14.2.10",
+    "@uirouter/angular": "10.0.0",
+    "@uirouter/core": "6.0.8",
+    "@uirouter/rx": "1.0.0"
+  },
+  "dependencies": {
+    "tslib": "2.4.1"
+  }
+}
