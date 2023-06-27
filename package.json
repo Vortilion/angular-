@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve my-sample-app",
     "build:library": "ng build my-shared-components",
     "build:library:watch": "ng build my-shared-components --watch --configuration development",
     "build:sample-app": "ng build my-sample-app",
